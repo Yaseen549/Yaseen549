@@ -25,7 +25,7 @@
 
 <img src="https://img.icons8.com/color/48/000000/linux.png"/> <img src="https://img.icons8.com/emoji/50/000000/parrot-emoji.png"/> <img src="https://img.icons8.com/color/48/000000/ubuntu.png"/> <img src="https://img.icons8.com/color/48/000000/kali-linux.png"/> <img src="https://img.icons8.com/color/48/000000/red-hat.png"/> <img src="https://img.icons8.com/color/48/000000/debian.png"/> <img src="https://img.icons8.com/color/48/000000/centos.png"/> 
 
-### My Portfolio- 
+### My Portfolio 
 
 [<img src="https://img.shields.io/badge/-My_Website-000000?style=social&logo=google"/>](https://yaseen.netlify.com)
 
