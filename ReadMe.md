@@ -77,6 +77,7 @@
 ![Julia](https://img.shields.io/badge/Julia-black.svg?&style=for-the-badge&logo=Julia&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl-3F416A.svg?&style=for-the-badge&logo=Perl&logoColor=white)
 
+![C++](https://img.shields.io/badge/-C_Sharp-621F74?style=for-the-badge&logo=c#)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-254BDD?style=for-the-badge&logo=css3)
 ![php](https://img.shields.io/badge/-php-purple?style=for-the-badge&logo=php&logoColor=white)
