@@ -13,13 +13,11 @@
 [<img src="https://img.shields.io/badge/-LinkedIn-000000?style=social&logo=linkedin" />](https://www.linkedin.com/in/yaseen59/) 
 [<img src="https://img.shields.io/badge/-YouTube-000000?style=social&logo=youtube" />](https://www.youtube.com/c/SyberCode) 
 
-
 ### Flexible With
 
 [<img src="https://img.shields.io/badge/-Linux-000000?style=social&logo=linux" />](#)
 [<img src="https://img.shields.io/badge/-Windows-000000?style=social&logo=windows" />](#) 
 [<img src="https://img.shields.io/badge/-Macintosh-000000?style=social&logo=apple" />](#)
-
 
 ### Linux Flavours
 
@@ -85,7 +83,6 @@
 ![C++](https://img.shields.io/badge/-C++-00427E?style=for-the-badge&logo=c)
 ![MySql](https://img.shields.io/badge/-MySql-orange?style=for-the-badge&logo=MySql&logoColor=white)
 
-
 ### Tools
 ![Netlify](https://img.shields.io/badge/-Netlify-F7F7F7?style=for-the-badge&logo=Netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-F7F7F7?style=for-the-badge&logo=Vercel&logoColor=black)
@@ -102,7 +99,6 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-F7F7F7?style=for-the-badge&logo=heroku&logoColor=430098) 
 ![Apache](https://img.shields.io/badge/-Apache-F7F7F7?style=for-the-badge&logo=apache&logoColor=black) 
 ![BitBucket](https://img.shields.io/badge/-BitBucket-F7F7F7?style=for-the-badge&logo=bitbucket&logoColor=2684FF) 
-
 
 ### IDE's working with
 
