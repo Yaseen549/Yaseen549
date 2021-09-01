@@ -37,6 +37,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-F7F7F7?style=for-the-badge&logo=Flask&logoColor=blue)
 ![D3JS](https://img.shields.io/badge/-D3.js-F7F7F7?style=for-the-badge&logo=d3.js)
 ![.NET](https://img.shields.io/badge/-.NET-F7F7F7?style=for-the-badge&logo=.NET&logoColor=A90097)
+![insomnia](https://img.shields.io/badge/-insomnia-F7F7F7?style=for-the-badge&logo=insomnia&logoColor=7400E1)
 <!-- ![React](https://img.shields.io/badge/-React-F7F7F7?style=for-the-badge&logo=react) -->
 <!-- ![SpringBoot](https://img.shields.io/badge/-SpringBoot-F7F7F7?style=for-the-badge&logo=spring) -->
 
