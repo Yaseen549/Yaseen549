@@ -37,7 +37,6 @@
 ![Flask](https://img.shields.io/badge/-Flask-F7F7F7?style=for-the-badge&logo=Flask&logoColor=blue)
 ![D3JS](https://img.shields.io/badge/-D3.js-F7F7F7?style=for-the-badge&logo=d3.js)
 ![.NET](https://img.shields.io/badge/-.NET-F7F7F7?style=for-the-badge&logo=.NET&logoColor=A90097)
-![insomnia](https://img.shields.io/badge/-insomnia-F7F7F7?style=for-the-badge&logo=insomnia&logoColor=7400E1)
 <!-- ![React](https://img.shields.io/badge/-React-F7F7F7?style=for-the-badge&logo=react) -->
 <!-- ![SpringBoot](https://img.shields.io/badge/-SpringBoot-F7F7F7?style=for-the-badge&logo=spring) -->
 
@@ -94,6 +93,7 @@
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F7F7F7?style=for-the-badge&logo=Cloudflare)
 ![npm](https://img.shields.io/badge/-npm-F7F7F7?style=for-the-badge&logo=npm)
 ![Docker](https://img.shields.io/badge/-Docker-F7F7F7?style=for-the-badge&logo=Docker)
+![insomnia](https://img.shields.io/badge/-insomnia-F7F7F7?style=for-the-badge&logo=insomnia&logoColor=7400E1)
 
 ![Firebase](https://img.shields.io/badge/-Firebase-F7F7F7?style=for-the-badge&logo=Firebase)
 ![Xampp](https://img.shields.io/badge/-Xampp-F7F7F7?style=for-the-badge&logo=xampp) 
