@@ -4,9 +4,13 @@
 
 <p style="font-family: 'Pacifico', cursive;" >I am <b><i>Yaseen</i></b>, welcome to my GitHub Repository, I'm a <b><i>Multi-Stack Developer</i></b>, Programmer, Game Designing and Development, and much more. You can check my profile links for more.</p>
 </div>
-<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="Coder GIF" width="300" height="250"> <img src="https://komarev.com/ghpvc/?username=Yasen549" alt="Yaseen549" /> 
+<div align=center><img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="Coder GIF" width="300" height="250"> 
+</div>
+<div align=center>
+<img src="https://komarev.com/ghpvc/?username=Yasen549" alt="Yaseen549" /> 
+</div>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Yaseen549&show_icons=true)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseen549&layout=compact&theme=white&langs_count=10)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Yaseen549&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseen549&layout=compact&theme=white&langs_count=10)
 
 <p><span align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://yaseen.netlify.com"><img src="https://github-profile-trophy.vercel.app/?username=Yaseen549&amp;margin-w=15&amp;column=7&amp;row=3" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Yaseen549&amp;margin-w=15&amp;column=6&amp;row=3" style="max-width:100%;"></a></span></p>
 
