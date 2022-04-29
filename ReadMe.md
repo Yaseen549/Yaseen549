@@ -119,9 +119,9 @@
 
 ### Projects
 
-<a href="https://github.com/Syber-Lab/Sybrenium"> <img src="https://github.com/Syber-Lab/Sybrenium/blob/main/imgs/Sybrenium.png" alt="Sybrenium logo" width="40" height="40"></a>
-<a href="https://pypi.org/project/pywebkit/"><img src="https://twixes.gallerycdn.vsassets.io/extensions/twixes/pypi-assistant/1.0.4/1609562576102/Microsoft.VisualStudio.Services.Icons.Default" alt="PyPi logo" width="30" height="30"></a>
-<a href="https://pypi.org/project/pywebkit/"><img src="https://github.com/Yaseen549/pyscript-js/blob/main/imgs/logo.png" alt="PyScript Logo" width="40" height="40"></a>
+<a href="https://github.com/Syber-Lab/Sybrenium"> <img src="https://github.com/Syber-Lab/Sybrenium/blob/main/imgs/Sybrenium.png" alt="Sybrenium logo" width="75" height="75"></a>
+<a href="https://github.com/Yaseen549/pyscript-js"><img src="https://github.com/Yaseen549/pyscript-js/blob/main/imgs/logo.png" alt="PyScript Logo" width="75" height="75"></a>
+<a href="https://pypi.org/project/pywebkit/"><img src="https://twixes.gallerycdn.vsassets.io/extensions/twixes/pypi-assistant/1.0.4/1609562576102/Microsoft.VisualStudio.Services.Icons.Default" alt="PyPi logo" width="75" height="75"></a>
 
 
 ### Finally
