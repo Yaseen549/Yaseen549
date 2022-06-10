@@ -7,8 +7,18 @@
 
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="Coder GIF" width="300" height="250"> <img src="https://komarev.com/ghpvc/?username=Yasen549" alt="Yaseen549" /> 
 
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Yaseen549&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseen549&layout=compact&theme=white&langs_count=10)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yaseen549)
+<!-- [![Shahzaib's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=yaseen549&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yaseen549)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yaseen549)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yaseen549)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yaseen549)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=yaseen549) -->
 
 <p><span align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://yaseen.netlify.com"><img src="https://github-profile-trophy.vercel.app/?username=Yaseen549&amp;margin-w=15&amp;column=7&amp;row=3" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Yaseen549&amp;margin-w=15&amp;column=6&amp;row=3" style="max-width:100%;"></a></span></p>
 
