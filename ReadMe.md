@@ -136,6 +136,8 @@
 <a href="https://github.com/Yaseen549/pyscript-js"><img src="https://github.com/Yaseen549/pyscript-js/blob/main/imgs/logo.png" alt="PyScript Logo" width="75" height="75"></a>
 <a href="https://pypi.org/project/pywebkit/"><img src="https://twixes.gallerycdn.vsassets.io/extensions/twixes/pypi-assistant/1.0.4/1609562576102/Microsoft.VisualStudio.Services.Icons.Default" alt="PyPi logo" width="75" height="75"></a>
 
+<!-- ### Contributions
+Contributor at uiverse.io, Freepik.com -->
 
 ### Finally
 
