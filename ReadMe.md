@@ -153,6 +153,6 @@ Contributor at uiverse.io, Freepik.com -->
 </table>
 
 
-### Feeding My Snake
+### Feeding my contributions to my snake
 
 ![snake gif](https://github.com/Yaseen549/Yaseen549/blob/output/github-contribution-grid-snake.gif)
