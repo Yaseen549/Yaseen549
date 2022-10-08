@@ -152,6 +152,6 @@ Contributor at uiverse.io, Freepik.com -->
 	</tr>
 </table>
 
-<h4>Feeding Snake</h4> 
+<h4>Feeding My Snake</h4>
 
 ![snake gif](https://github.com/Yaseen549/Yaseen549/blob/output/github-contribution-grid-snake.gif)
