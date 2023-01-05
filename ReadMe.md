@@ -46,6 +46,7 @@
 
 ### Frameworks, Stack and Libraries
 
+![Redis](https://img.shields.io/badge/-Redis-F7F7F7?style=for-the-badge&logo=Redis)
 ![Futter](https://img.shields.io/badge/-Flutter-F7F7F7?style=for-the-badge&logo=flutter&logoColor=blue)
 ![Android](https://img.shields.io/badge/-Android-F7F7F7?style=for-the-badge&logo=Android)
 ![iOS](https://img.shields.io/badge/-iOS-F7F7F7?style=for-the-badge&logo=apple&logoColor=black)
