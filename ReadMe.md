@@ -2,7 +2,7 @@
 	<b>Hey Visitor </b> 🖐🏻
 <hr>
 
-<p style="font-family: 'Pacifico', cursive;" >I am <b><i>Yaseen</i></b>, welcome to my GitHub Repository, I'm a <b><i>MERN & Multi-Stack Developer</i></b>, Programmer, Game Designing and Development, and much more. You can check my profile links for more.</p>
+<p style="font-family: 'Pacifico', cursive;" >I am <b><i>Yaseen</i></b>, welcome to my GitHub Repository, I'm a <b><i>MERN & Multi-Stack Developer</i></b>, Programmer, Game Designer and Developer. You can check my profile links for more.</p>
 </div>
 
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="Coder GIF" width="300" height="250"> <img src="https://komarev.com/ghpvc/?username=Yasen549" alt="Yaseen549" /> 
