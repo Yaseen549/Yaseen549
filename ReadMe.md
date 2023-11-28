@@ -27,7 +27,6 @@
 
 ### Connect & Contact Point  
 
-[<img src="https://img.shields.io/badge/-LinkedIn-000000?style=social&logo=linkedin" />](https://www.linkedin.com/in/yaseen59/) 
 [<img src="https://img.shields.io/badge/-YouTube-000000?style=social&logo=youtube" />](https://www.youtube.com/c/SyberCode) 
 
 ### Flexible With
@@ -121,21 +120,22 @@
 
 ### IDE's working with
 
-<img height="50" src="https://img.icons8.com/color/344/intellij-idea.png"> <img height="50" src="https://img.icons8.com/color/344/pycharm.png"> <img height="50" src="https://img.icons8.com/color/344/visual-studio-2019.png"> <img height="50" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"> <img src="https://img.icons8.com/officexs/50/000000/java-eclipse.png" /> <img src="https://img.icons8.com/fluent/50/000000/adobe-photoshop.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-indesign.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-dreamweaver.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png"/>  <img src="https://img.icons8.com/fluent/48/000000/adobe-animate.png"/> <img src="https://img.icons8.com/fluent/48/000000/android-os.png"/> 
+<img height="50" src="https://img.icons8.com/color/344/intellij-idea.png"> <img height="50" src="https://img.icons8.com/color/344/pycharm.png"> <img height="50" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"> <img src="https://img.icons8.com/officexs/50/000000/java-eclipse.png" /> <img src="https://img.icons8.com/fluent/50/000000/adobe-photoshop.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-indesign.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png"/> <img src="https://img.icons8.com/fluent/48/000000/android-os.png"/> 
 
 ### Gaming Engines
 
-<img src="https://img.icons8.com/color/48/000000/unreal-engine.png" width="40" height="40"/> <img src="https://img.icons8.com/ios-filled/64/000000/unity.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/game-maker.png" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/unreal-engine.png" width="40" height="40"/> <img src="https://img.icons8.com/ios-filled/64/000000/unity.png" width="40" height="40"/> 
 
 ### Virtual Environments
 
 <img src="https://img.icons8.com/color/48/000000/old-vmware-logo.png"/> <img src="https://img.icons8.com/color/48/000000/virtualbox.png"/>
 
-### Projects
+
+<!-- ### Projects
 
 <a href="https://github.com/Syber-Lab/Sybrenium"> <img src="https://github.com/Syber-Lab/Sybrenium/blob/main/imgs/Sybrenium.png" alt="Sybrenium logo" width="75" height="75"></a>
 <a href="https://github.com/Yaseen549/pyscript-js"><img src="https://github.com/Yaseen549/pyscript-js/blob/main/imgs/logo.png" alt="PyScript Logo" width="75" height="75"></a>
-<a href="https://pypi.org/project/pywebkit/"><img src="https://twixes.gallerycdn.vsassets.io/extensions/twixes/pypi-assistant/1.0.4/1609562576102/Microsoft.VisualStudio.Services.Icons.Default" alt="PyPi logo" width="75" height="75"></a>
+<a href="https://pypi.org/project/pywebkit/"><img src="https://twixes.gallerycdn.vsassets.io/extensions/twixes/pypi-assistant/1.0.4/1609562576102/Microsoft.VisualStudio.Services.Icons.Default" alt="PyPi logo" width="75" height="75"></a> -->
 
 <!-- ### Contributions
 Contributor at uiverse.io, Freepik.com -->
@@ -154,6 +154,6 @@ Contributor at uiverse.io, Freepik.com -->
 </table>
 
 
-### Feeding my contributions to my snake
+### Contributions Feeder
 
 ![snake gif](https://github.com/Yaseen549/Yaseen549/blob/output/github-contribution-grid-snake.gif)
