@@ -27,8 +27,8 @@
 
 ### Connect & Contact Point  
 
-[<img src="https://img.shields.io/badge/-LinkedIn-000000?style=social&logo=linkedin" />](https://www.linkedin.com/in/yaseen59/) 
-[<img src="https://img.shields.io/badge/-YouTube-000000?style=social&logo=youtube" />](https://www.youtube.com/c/SyberCode) 
+[<img src="https://img.shields.io/badge/-LinkedIn-000000?style=social&logo=linkedin" />](https://www.linkedin.com/in/yaseen94/) 
+[<img src="https://img.shields.io/badge/-YouTube-000000?style=social&logo=youtube" />](https://www.youtube.com/@rayncode.official) 
 
 ### Flexible With
 
@@ -42,7 +42,7 @@
 
 ### My Portfolio 
 
-[<img src="https://img.shields.io/badge/-My_Website-000000?style=social&logo=google"/>](https://yaseen.netlify.com)
+[<img src="https://img.shields.io/badge/-My_Website-000000?style=social&logo=google"/>](https://yaseen-dev-profile.vercel.app)
 
 ### Frameworks, Stack and Libraries
 
